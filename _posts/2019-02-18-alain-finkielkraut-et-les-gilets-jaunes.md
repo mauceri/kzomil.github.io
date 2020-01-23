@@ -6,7 +6,7 @@ author: kzomil
 layout: post
 guid: https://kzomil.com/?p=119
 permalink: /2019/02/18/alain-finkielkraut-et-les-gilets-jaunes/
-image: /wp-content/uploads/2019/02/Fères-musulmans.jpg
+image: /images/Fères-musulmans.jpg
 categories:
   - Comptoir
 tags:
