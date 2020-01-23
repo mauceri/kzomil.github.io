@@ -6,7 +6,7 @@ author: kzomil
 layout: post
 guid: http://kzomil.com/?p=168
 permalink: /2019/04/17/discredit/
-image: /wp-content/uploads/2019/04/La-Flèche-de-Notre-Dame-seffondre.jpg
+image: /images/La-Flèche-de-Notre-Dame-seffondre.jpg
 categories:
   - Comptoir
 tags:
