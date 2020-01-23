@@ -4,8 +4,6 @@ title: Morts pour la France
 date: 2019-11-13T11:14:31+01:00
 author: kzomil
 layout: post
-guid: http://kzomil.com/?p=208
-permalink: /2019/11/13/morts-pour-la-france/
 image: /images/AryehGabrielMyriam.jpg
 categories:
   - Comptoir
