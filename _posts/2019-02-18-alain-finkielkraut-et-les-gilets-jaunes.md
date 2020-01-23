@@ -4,9 +4,7 @@ title: Alain Finkielkraut et les gilets jaunes
 date: 2019-02-18T19:20:54+01:00
 author: kzomil
 layout: post
-guid: https://kzomil.com/?p=119
-permalink: /2019/02/18/alain-finkielkraut-et-les-gilets-jaunes/
-image: /images/Fères-musulmans.jpg
+image: Fères-musulmans.jpg
 categories:
   - Comptoir
 tags:
