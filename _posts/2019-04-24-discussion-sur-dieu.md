@@ -4,9 +4,7 @@ title: Discussion sur Dieu et la raison
 date: 2019-04-24T20:30:47+02:00
 author: kzomil
 layout: post
-guid: http://kzomil.com/?p=173
-permalink: /2019/04/24/discussion-sur-dieu/
-image: /images/HommeDieuVacances.jpg
+image: HommeDieuVacances.jpg
 categories:
   - Comptoir
 tags:
