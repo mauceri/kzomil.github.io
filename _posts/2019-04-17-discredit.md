@@ -4,9 +4,7 @@ title: Discrédit
 date: 2019-04-17T16:53:24+02:00
 author: kzomil
 layout: post
-guid: http://kzomil.com/?p=168
-permalink: /2019/04/17/discredit/
-image: /images/La-Flèche-de-Notre-Dame-seffondre.jpg
+image: La-Flèche-de-Notre-Dame-seffondre.jpg
 categories:
   - Comptoir
 tags:
