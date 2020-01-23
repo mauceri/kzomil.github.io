@@ -6,7 +6,7 @@ author: kzomil
 layout: post
 guid: https://kzomil.com/?p=72
 permalink: /2019/02/06/gilets-jaunes-pourquoi-je-les-aime-toujours/
-image: /wp-content/uploads/2019/02/B9717729027Z.1_20181126124021_000GSUCGC17H.1-0.jpg
+image: /images/gj1-0.jpg
 categories:
   - Comptoir
 tags:
