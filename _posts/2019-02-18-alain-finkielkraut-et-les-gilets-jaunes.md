@@ -4,7 +4,7 @@ title: Alain Finkielkraut et les gilets jaunes
 date: 2019-02-18T19:20:54+01:00
 author: kzomil
 layout: post
-image: Fères-musulmans.jpg
+image: Frères-musulmans.jpg
 categories:
   - Comptoir
 tags:
