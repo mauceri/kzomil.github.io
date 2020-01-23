@@ -6,7 +6,7 @@ author: kzomil
 layout: post
 guid: https://kzomil.com/?p=95
 permalink: /2019/02/11/mais-ou-est-le-chat-du-rabbin/
-image: /wp-content/uploads/2019/02/IMG_0042.jpeg
+image: /images/Bagelstein.jpeg
 categories:
   - Comptoir
 tags:
