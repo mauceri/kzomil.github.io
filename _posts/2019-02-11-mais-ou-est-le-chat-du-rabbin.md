@@ -4,9 +4,7 @@ title: Mais où est le chat du rabbin ?
 date: 2019-02-11T08:57:17+01:00
 author: kzomil
 layout: post
-guid: https://kzomil.com/?p=95
-permalink: /2019/02/11/mais-ou-est-le-chat-du-rabbin/
-image: /images/Bagelstein.jpeg
+image: Bagelstein.jpeg
 categories:
   - Comptoir
 tags:
