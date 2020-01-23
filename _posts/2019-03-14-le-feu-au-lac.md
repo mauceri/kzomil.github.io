@@ -6,7 +6,7 @@ author: kzomil
 layout: post
 guid: http://kzomil.com/?p=153
 permalink: /2019/03/14/le-feu-au-lac/
-image: /wp-content/uploads/2019/03/global_warming_skeptics.jpg
+image: /images/global_warming_skeptics.jpg
 categories:
   - Comptoir
 ---
