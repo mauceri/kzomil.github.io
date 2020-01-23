@@ -9,7 +9,7 @@ layout: default
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
       <div class="entry">
-        <img src="{{site.url}}/images/{{post.image}}" style="display: block; margin: auto;" />
+        {% if post.image %}<img src="{{site.url}}/images/{{post.image}}" style="display: block; margin: auto;" />
         {{ post.excerpt }}
       </div>
 
