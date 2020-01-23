@@ -6,7 +6,7 @@ author: kzomil
 layout: post
 guid: http://kzomil.com/?p=164
 permalink: /2019/04/16/loeil-qui-voit-dieu/
-image: /wp-content/uploads/2019/04/oeil-de-Dieujpg.jpg
+image: /images/L-oeil-de-Dieujpg.jpg
 categories:
   - Comptoir
 tags:
