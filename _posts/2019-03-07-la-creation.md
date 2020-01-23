@@ -4,9 +4,7 @@ title: La Création
 date: 2019-03-07T14:46:13+01:00
 author: kzomil
 layout: post
-guid: https://kzomil.com/?p=123
-permalink: /2019/03/07/la-creation/
-image: /images/Chagall-creation.jpg
+image: Chagall-creation.jpg
 categories:
   - Comptoir
 tags:
