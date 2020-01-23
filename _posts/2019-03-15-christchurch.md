@@ -6,7 +6,7 @@ author: kzomil
 layout: post
 guid: http://kzomil.com/2019/03/15/christchurch/
 permalink: /2019/03/15/christchurch/
-image: /wp-content/uploads/2019/03/img_0066.jpg
+image: /images/MosquéeChristchurch.jpg
 categories:
   - Comptoir
 tags:
