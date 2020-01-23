@@ -6,7 +6,7 @@ author: kzomil
 layout: post
 guid: https://kzomil.com/?p=123
 permalink: /2019/03/07/la-creation/
-image: /wp-content/uploads/2019/03/Chagall-creation.jpg
+image: /images/Chagall-creation.jpg
 categories:
   - Comptoir
 tags:
