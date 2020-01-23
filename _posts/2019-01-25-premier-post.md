@@ -4,8 +4,6 @@ title: Luc le philosophe
 date: 2019-01-25T21:13:20+01:00
 author: kzomil
 layout: post
-guid: https://kzomil.com/?p=15
-permalink: /2019/01/25/premier-post/
 image: /images/LucFerry.jpg
 categories:
   - Comptoir
