@@ -6,7 +6,7 @@ author: kzomil
 layout: post
 guid: https://kzomil.com/?p=15
 permalink: /2019/01/25/premier-post/
-image: /wp-content/uploads/2019/01/1033994494.jpg
+image: /images/LucFerry.jpg
 categories:
   - Comptoir
 tags:
