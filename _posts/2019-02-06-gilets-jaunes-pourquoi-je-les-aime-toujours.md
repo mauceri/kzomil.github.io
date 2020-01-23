@@ -4,7 +4,7 @@ title: 'Gilets jaunes : pourquoi je les aime toujours'
 date: 2019-02-06T16:09:23+01:00
 author: kzomil
 layout: post
-guid: https://kzomil.com/?p=72
+guid: https://kzomil.github.io/?p=72
 permalink: /2019/02/06/gilets-jaunes-pourquoi-je-les-aime-toujours/
 image: /images/gj1.jpg
 categories:
