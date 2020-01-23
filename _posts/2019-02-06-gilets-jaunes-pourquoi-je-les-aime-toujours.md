@@ -4,7 +4,7 @@ title: 'Gilets jaunes : pourquoi je les aime toujours'
 date: 2019-02-06T16:09:23+01:00
 author: kzomil
 layout: post
-image: /images/gj1.jpg
+image: gj1.jpg
 categories:
   - Comptoir
 tags:
