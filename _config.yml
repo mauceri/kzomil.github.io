@@ -6,7 +6,7 @@
 name: Émile Kzomil
 
 # Short bio or description (displayed in the header)
-description: Je suis un chat
+description: Le blog à Émile
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -32,7 +32,7 @@ footer-links:
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
-remote_theme: thelehhman/plainwhite-jekyll
+#remote_theme: thelehhman/plainwhite-jekyll
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
