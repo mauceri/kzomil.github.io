@@ -6,7 +6,7 @@ author: kzomil
 layout: post
 guid: https://kzomil.com/?p=112
 permalink: /2019/02/16/le-tournant/
-image: /wp-content/uploads/2019/02/IMG_3859-400x250.jpg
+image: /images/Finkie.jpg
 categories:
   - Comptoir
 tags:
