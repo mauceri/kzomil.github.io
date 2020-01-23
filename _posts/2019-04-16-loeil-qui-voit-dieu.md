@@ -4,7 +4,7 @@ title: 'L&rsquo;oeil qui voit Dieu'
 date: 2019-04-16T18:37:30+02:00
 author: kzomil
 layout: post
-image: L-oeil-de-Dieujpg.jpg
+image: L-oeil-de-Dieu.jpg
 categories:
   - Comptoir
 tags:
