@@ -4,7 +4,7 @@ title: Luc le philosophe
 date: 2019-01-25T21:13:20+01:00
 author: kzomil
 layout: post
-image: /images/LucFerry.jpg
+image: LucFerry.jpg
 categories:
   - Comptoir
 tags:
