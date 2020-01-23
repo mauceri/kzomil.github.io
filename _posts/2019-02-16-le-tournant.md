@@ -4,9 +4,7 @@ title: Le tournant ?
 date: 2019-02-16T21:41:39+01:00
 author: kzomil
 layout: post
-guid: https://kzomil.com/?p=112
-permalink: /2019/02/16/le-tournant/
-image: /images/Finkie.jpg
+image: Finkie.jpg
 categories:
   - Comptoir
 tags:
