@@ -6,7 +6,7 @@ author: kzomil
 layout: post
 guid: http://kzomil.com/?p=208
 permalink: /2019/11/13/morts-pour-la-france/
-image: /wp-content/uploads/2019/11/AryehGabrielMyriam.jpg
+image: /images/AryehGabrielMyriam.jpg
 categories:
   - Comptoir
 ---
