@@ -4,8 +4,7 @@ title: Christchurch
 date: 2019-03-15T21:36:39+01:00
 author: kzomil
 layout: post
-guid: http://kzomil.com/2019/03/15/christchurch/
-image: /images/MosquéeChristchurch.jpg
+image: MosquéeChristchurch.jpg
 categories:
   - Comptoir
 tags:
