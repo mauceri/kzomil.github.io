@@ -9,7 +9,7 @@ categories:
   - Comptoir
 ---
 
-![badass](/images/badasscat.jpg)
+![morts pour la France](/images/AryehGabrielMyriam.jpg)
 
 _Il y a trois jours, presque pour l&rsquo;anniversaire de l&rsquo;attentat du Bataclan, la gauche abjecte défilait avec les racistes du PIR pour dénoncer l&rsquo;islamophobie, c&rsquo;est à dire pour faire taire toute critique de l&rsquo;islam politique qui étend son emprise sur notre pays et suscite les vocations terroristes que l&rsquo;on sait. Il y a sept ans et demi mon ami Tibor Skardanelli publiait ce texte islamophobe._
 
