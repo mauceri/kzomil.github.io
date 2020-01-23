@@ -6,7 +6,7 @@ author: kzomil
 layout: post
 guid: http://kzomil.com/?p=173
 permalink: /2019/04/24/discussion-sur-dieu/
-image: /wp-content/uploads/2019/04/HommeDieuVacances.jpg
+image: /images/HommeDieuVacances.jpg
 categories:
   - Comptoir
 tags:
