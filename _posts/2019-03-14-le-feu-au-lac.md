@@ -4,9 +4,7 @@ title: Le feu au lac
 date: 2019-03-14T18:36:35+01:00
 author: kzomil
 layout: post
-guid: http://kzomil.com/?p=153
-permalink: /2019/03/14/le-feu-au-lac/
-image: /images/global_warming_skeptics.jpg
+image: global_warming_skeptics.jpg
 categories:
   - Comptoir
 ---
