@@ -8,6 +8,9 @@ image: /images/AryehGabrielMyriam.jpg
 categories:
   - Comptoir
 ---
+
+![badass](/images/badasscat.jpg)
+
 _Il y a trois jours, presque pour l&rsquo;anniversaire de l&rsquo;attentat du Bataclan, la gauche abjecte défilait avec les racistes du PIR pour dénoncer l&rsquo;islamophobie, c&rsquo;est à dire pour faire taire toute critique de l&rsquo;islam politique qui étend son emprise sur notre pays et suscite les vocations terroristes que l&rsquo;on sait. Il y a sept ans et demi mon ami Tibor Skardanelli publiait ce texte islamophobe._
 
 Comment se fait-il que ce soit la photo de l’assassin souriant qui s’étale aux unes et pas celle des enfants assassinés pour le seul tort d’avoir été juifs ? Pourquoi parle-t-on du terroriste mort les armes à la main et pas de la petite fille attrapée par les cheveux et abattue d’une balle dans la tête ? Pourquoi cache-t-on les victimes comme si l’on en avait honte ? Cette attitude jette une lumière crue sur la dérive de notre société. Mohamed Merah devient une sorte de héros et ses victimes des faire-valoir, à peine. La haine devient imperceptiblement un mal dont seraient atteintes les victimes du monde occidental, des juifs, de la finance internationale, un mal compréhensible finalement. Que vaut une société qui célèbre le mal ?
